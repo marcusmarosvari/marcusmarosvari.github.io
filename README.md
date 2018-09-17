@@ -1,3 +1,10 @@
+I study Computer Science at Boise State University. Thus far I have completed or am currently enrolled in the following courses:
+- CS121 Computer Science I
+- CS221 Computer Science II
+- CS253 Introduction to Systems Programming
+- CS-HU153 Navigating Computer Systems
+- CS-HU250 Introduciton to Version Control
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/marcusmarosvari/marcusmarosvari.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
